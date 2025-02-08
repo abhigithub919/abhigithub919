@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhigithub919
-- 👀 I’m interested in QA Testing and Java
+- 👀 I’m interested in S/w Testing, Java building Automation framework
 - 💞️ I’m looking to collaborate on QA and Java...
 - 📫 How to reach me I'm available on abhisheksinghaws11@gmail.com...
 
